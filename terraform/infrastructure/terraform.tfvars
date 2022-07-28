@@ -1,5 +1,5 @@
 ## Change project_name to your project name
-project_name = "TCB-ml-pipeline-terraform-demo" //put your project name here
+project_name = "tcb-ml-pipeline-terraform-demo" //put your project name here
 region = "us-east-1" //change region if desired to deploy in another region
 
 ## Change instance types amd volume size for SageMaker if desired
